@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harsh Nema @harshnema9911
+- 👋 Hi, I’m Harsh Nema (@harshnema9911)
 - 👀 I’m passionate about dealing with data, finding out certain trends and patterns from data and develop new strategies.
 - 🌱 I’m pursuing PG Program in Data Science, Machine Learning and Neural Networks.
 -  I am undergoing an internship with Flip Robo Technologies, Bengaluru.
